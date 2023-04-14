@@ -6,7 +6,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Poppins', sans-serif;
-    font-size: large;
+    font-size: medium;
     font-weight: bold;
 
 }
@@ -44,7 +44,7 @@ li{
 
 .imgcontainer{
     position:fixed;
-    top:0px;
+    top:3px;
     bottom:0px;
     width:250px;
     height:100%;
@@ -85,14 +85,14 @@ li{
 
 
 .detailss{
-    margin:0px 25px 15px 45px;
+    margin:0px 15px 15px 45px;
     background: black;
     border-radius:20px;
     width:420px;
     height:250px;
     color:white;
     text-align:center;
-    padding:10px 55px 55px 60px;
+    padding:10px 20px 60px 30px;
 
 }
 .detailsss{
@@ -103,7 +103,7 @@ li{
     height:255px;
     color:white; 
     text-align:center;
-    padding:10px 40px 70px 40px;
+    padding:10px 20px 70px 20px;
     
     
 
@@ -118,10 +118,10 @@ h5{
     text-align:left;
 }
 .skills{
-    margin:10px 0px 5px 20px;
+    margin:5px 0px 5px 20px;
     padding-left: 15px;
     width:57px;
-    height:15px;
+    height:20px;
     background:#ffde59 ;
     border-radius: 15px;
     color:black;
