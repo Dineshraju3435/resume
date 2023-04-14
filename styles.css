@@ -144,13 +144,14 @@ h4{
 
 }
 #contact{
-    width:125px;
-    height:20px;
+    width:100px;
+    height:18px;
     background:#ffde59 ;
     border-radius: 15px;
     color:black;
     padding:5px;
     font-size:small;
+    font-weight:bold;
     padding-left: 15px;
 
 }
