@@ -76,8 +76,8 @@ li{
 .details{
     width:400px;
     position:fixed;
-    top:100px;
-    left:400px;
+    top:50px;
+    left:100px;
     display:flex;
     flex-direction: column;
     flex-wrap: wrap;
