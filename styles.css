@@ -20,7 +20,7 @@ body{
     width:200px;
     height:200px;
     border-radius: 50%;
-    margin:100px 0px 0px 20px;
+    margin:0px 0px 0px 20px;
 }
 li{
     text-align: left;
@@ -85,7 +85,7 @@ li{
 
 
 .detailss{
-    margin:0px 50px 50px 90px;
+    margin:0px 25px 25px 45px;
     background: black;
     border-radius:20px;
     width:420px;
@@ -96,7 +96,7 @@ li{
 
 }
 .detailsss{
-    margin:35px 60px 60px 90px;
+    margin:35px 25px 25px 45px;
     background: black;
     border-radius:20px;
     width:420px;
